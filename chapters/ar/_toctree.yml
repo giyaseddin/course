@@ -2,3 +2,7 @@
   sections:
   - local: chapter0/1
     title: مقدمة
+- title: 2.المحولات
+  sections:
+  - local: chapter2/1
+    title: مقدمة
